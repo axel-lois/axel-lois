@@ -61,7 +61,7 @@ const Me = {
 <p> This was my first Javascript Vanilla project, which consisted in a simulated CRUD App (as i did not have knowledge in backend at that time) using localStorage. </p>
 <p> In this time, i used bootstrap for the styling. This one is responsive (or at least i tried haha). </p>
 <p> Code: https://github.com/axel-lois/Contablito-V2 </p>
-<p> Page: https://github.com/axel-lois/Contablito-V2/settings/pages</p>
+<p> Page:https://axel-lois.github.io/Contablito-V2/</p>
 
 <p> Creating/updating a new product.</p>
 <img src='https://user-images.githubusercontent.com/82421661/157135015-9646a933-cf33-4f11-8bbc-f1cc77cadbcd.png'>
