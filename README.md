@@ -27,6 +27,35 @@ const Me = {
   challenge: "Finishing Henry's bootcamp and looking for a tech opportunity."
 }
 ```
+<hr>
+
+### Projects that i made myself: 
+
+<h2> Pokemon APP </h2>
+<p> This is a fullstack app that i made, that gives you the oportunity to search, filter, sort, create, update and delete pokemon. </p>
+<p> Basically a CRUD fullstack app, in which i hade to make frontend, backend and also the db models myself. </p>
+<p> Code: https://github.com/axel-lois/Pokemon-App </p>
+<p> Page: https://pokemon-app-rose.vercel.app. I may say that it's not responsive and could be a little messy in some devices.  </p>
+<p>Let's see a little bit of the app: </p>
+
+<p> Landing page </p>
+<img src='https://user-images.githubusercontent.com/82421661/157132994-f95295c7-35c8-4663-877b-c4b19a9c93af.png'>
+<p> Home </p>
+<img src='https://user-images.githubusercontent.com/82421661/157132300-f24ac194-7b2c-493f-a17e-c1b1fe8e706c.png'>
+<p> Create and update pokemon </p>
+<img src='https://user-images.githubusercontent.com/82421661/157132631-d0d0564b-da69-46e6-b3ef-a884a8575de3.png'>
+<p> Pokemon detail </p>
+<img src='https://user-images.githubusercontent.com/82421661/157132763-49c971dc-b6c6-4476-b0b3-61d616d149f9.png'>
+<p> About </p>
+<img src='https://user-images.githubusercontent.com/82421661/157132852-7e1cf9fb-30c3-439c-9b7c-16a5b64268d3.png'>
+<p> 404 page (easter egg) </p>
+<img src='https://user-images.githubusercontent.com/82421661/157133084-5d27007a-9b21-4bb1-9164-6366f142dc03.png'>
+
+<h2> Weather APP </h2>
 
 
----
+
+
+
+
+
