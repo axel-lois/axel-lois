@@ -35,7 +35,7 @@ const Me = {
 <p> This is a fullstack app that i made, that gives you the oportunity to search, filter, sort, create, update and delete pokemon. </p>
 <p> Basically a CRUD fullstack app, in which i hade to make frontend, backend and also the db models myself. </p>
 <p> Code: https://github.com/axel-lois/Pokemon-App </p>
-<p> Page: https://pokemon-app-rose.vercel.app. I may say that it's not responsive and could be a little messy in some devices.  </p>
+<p> Page: https://pokemon-app-rose.vercel.app. I may say that it's not responsive and could be a little messy in some devices, plus vercel automatically changed the sizes.  </p>
 <p>Let's see a little bit of the app: </p>
 
 <p> Landing page </p>
@@ -52,10 +52,28 @@ const Me = {
 <img src='https://user-images.githubusercontent.com/82421661/157133084-5d27007a-9b21-4bb1-9164-6366f142dc03.png'>
 
 <h2> Weather APP </h2>
+<p> A simple React app i developed for practising. It uses OpenWeather api for the info. It does not use styling libraries. </p>
+<p> Code: https://github.com/axel-lois/Weather-App-V1/tree/Code </p>
+<p> Page: https://axel-lois.github.io/Weather-App-V1/ </p>
+<img src='https://user-images.githubusercontent.com/82421661/157134373-ab428272-3e6a-48fc-b3ff-7a8c662cfd18.png'>
 
+<h2> Contablito V2 </h2>
+<p> This was my first Javascript Vanilla project, which consisted in a simulated CRUD App (as i did not have knowledge in backend at that time) using localStorage. </p>
+<p> In this time, i used bootstrap for the styling. This one is responsive (or at least i tried haha). </p>
+<p> Code: https://github.com/axel-lois/Contablito-V2 </p>
+<p> Page: https://github.com/axel-lois/Contablito-V2/settings/pages</p>
 
+<p> Creating/updating a new product.</p>
+<img src='https://user-images.githubusercontent.com/82421661/157135015-9646a933-cf33-4f11-8bbc-f1cc77cadbcd.png'>
+<p> The product table.</p>
+<img src='https://user-images.githubusercontent.com/82421661/157135138-28a6f1c6-e823-4b3f-82ca-70c08f654ce4.png'>
 
-
+<h2>Pomodoro APP</h2>
+<p> This is also a React-app that was developed for practising. This time, trying to make a pomodoro timer. </p>
+<p> An alarm sound still has to be added when the timer reachs 0 seconds, but it works fine. </p>
+<p> Code: https://github.com/axel-lois/Pomodoro-App/tree/Code </p>
+<p> Page: https://axel-lois.github.io/Pomodoro-App/ </p>
+<img src='https://user-images.githubusercontent.com/82421661/157135671-3870e393-764b-4e83-aef8-cfe00845dfe9.png'>
 
 
 
