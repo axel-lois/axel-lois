@@ -18,7 +18,7 @@ const Me = {
   pronouns: "he" | "him",
   Code: [Javascript, Typescript, Pascal, C, HTML, CSS],
   technologies: {
-    frontEnd: [React, Redux, Bootstrap, MaterialUI],
+    frontEnd: [React, Redux, Bootstrap],
     backEnd: [Node, Express, MongoDB, PostgreSQL]
   },
   tools: [Postman,Robo3T,PGAdmin4,Git],
@@ -74,6 +74,13 @@ const Me = {
 <p> Code: https://github.com/axel-lois/Pomodoro-App/tree/Code </p>
 <p> Page: https://axel-lois.github.io/Pomodoro-App/ </p>
 <img src='https://user-images.githubusercontent.com/82421661/157135671-3870e393-764b-4e83-aef8-cfe00845dfe9.png'>
+
+<h2>Portfolio</h2>
+<p> This is my portfolio and presentation page. It was made using react and router. I also used normalize.css, sweetalert and nes.css for the styling. </p>
+<p>Besides, i created a little express server which accepts a post request from the contact form, sending them to my personal email account using SendGrid.</p>
+<p> Code: https://github.com/axel-lois/Portfolio</p>
+<p> Page: https://portfolio-sand-five-59.vercel.app</p>
+<img src='https://user-images.githubusercontent.com/82421661/157769612-6664790e-d893-42a8-9839-21d10a49bc8c.png'>
 
 
 
