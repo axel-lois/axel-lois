@@ -82,5 +82,10 @@ const Me = {
 <p> Page: https://portfolio-sand-five-59.vercel.app</p>
 <img src='https://user-images.githubusercontent.com/82421661/157769612-6664790e-d893-42a8-9839-21d10a49bc8c.png'>
 
-
+<h2> Contablito V3 </h2>
+<p> This is the remake of Contablito V2, but this time, converted into a FullStack app. Made with React, Redux, Typescript, Node, Express, Mongo(atlas), mongoose and JWT.  </p>
+<p> This time, i used bootstrap for the styling. This one is responsive. </p>
+<p> Code: https://github.com/axel-lois/Contablito-V3 </p>
+<p> Page: https://contablito-v3.vercel.app</p>
+<img src='https://user-images.githubusercontent.com/82421661/159184688-eba6eade-48c6-429f-b538-09b4890e4abc.png'>
 
