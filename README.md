@@ -51,12 +51,6 @@ const Me = {
 <p> 404 page (easter egg) </p>
 <img src='https://user-images.githubusercontent.com/82421661/157133084-5d27007a-9b21-4bb1-9164-6366f142dc03.png'>
 
-<h2> Contablito V2 </h2>
-<p> This was my first Javascript Vanilla project, which consisted in a simulated CRUD App (as i did not have knowledge in backend at that time) using localStorage. </p>
-<p> This time, i used bootstrap for the styling. This one is responsive (or at least i tried haha). </p>
-<p> Code: https://github.com/axel-lois/Contablito-V2 </p>
-<p> Page:https://axel-lois.github.io/Contablito-V2/</p>
-
 <p> Creating/updating a new product.</p>
 <img src='https://user-images.githubusercontent.com/82421661/157135015-9646a933-cf33-4f11-8bbc-f1cc77cadbcd.png'>
 <p> The product table.</p>
@@ -77,7 +71,7 @@ const Me = {
 <img src='https://user-images.githubusercontent.com/82421661/157769612-6664790e-d893-42a8-9839-21d10a49bc8c.png'>
 
 <h2> Contablito V3 </h2>
-<p> This is the remake of Contablito V2, but this time, converted into a FullStack app. Made with React, Redux, Typescript, Node, Express, Mongo(atlas), mongoose and JWT.  </p>
+<p> This is the remake of Contablito V2 (another project that i did with Vanila Javascript), but this time, converted into a FullStack app. Made with React, Redux, Typescript, Node, Express, Mongo(atlas), mongoose and JWT.  </p>
 <p> This time, i used bootstrap for the styling. This one is responsive. </p>
 <p> Code: https://github.com/axel-lois/Contablito-V3 </p>
 <p> Page: https://contablito-v3.vercel.app</p>
