@@ -51,12 +51,6 @@ const Me = {
 <p> 404 page (easter egg) </p>
 <img src='https://user-images.githubusercontent.com/82421661/157133084-5d27007a-9b21-4bb1-9164-6366f142dc03.png'>
 
-<h2> Weather APP </h2>
-<p> A simple React app i developed for practising. It uses OpenWeather api for the info. It does not use styling libraries. </p>
-<p> Code: https://github.com/axel-lois/Weather-App-V1/tree/Code </p>
-<p> Page: https://axel-lois.github.io/Weather-App-V1/ </p>
-<img src='https://user-images.githubusercontent.com/82421661/157134373-ab428272-3e6a-48fc-b3ff-7a8c662cfd18.png'>
-
 <h2> Contablito V2 </h2>
 <p> This was my first Javascript Vanilla project, which consisted in a simulated CRUD App (as i did not have knowledge in backend at that time) using localStorage. </p>
 <p> This time, i used bootstrap for the styling. This one is responsive (or at least i tried haha). </p>
