@@ -2,7 +2,7 @@
 <p><em>Fullstack teaching assistant and student at <a href="https://www.soyhenry.com">Soy Henry</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Computer science student at  <a href="https://www.fing.edu.uy">UDELAR</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Axel Lois](https://img.shields.io/badge/-AxelLois-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/axel-lois-740ba392/)](https://www.linkedin.com/in/axel-lois-740ba392/)
+[![Linkedin: Axel Lois](https://img.shields.io/badge/-AxelLois-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/axel-lois-740ba392/)](https://www.linkedin.com/in/axel-lois-dev/)
 [![Github: Axel Lois](https://img.shields.io/badge/-AxelLois-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/axel-lois)](https://github.com/axel-lois)
 [![WhatsAPP Axel Lois](https://img.shields.io/badge/-AxelLois-darkgreen?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=59891372662&text&app_absent=0)](https://api.whatsapp.com/send/?phone=59891372662&text&app_absent=0)
 
