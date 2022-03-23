@@ -51,11 +51,6 @@ const Me = {
 <p> 404 page (easter egg) </p>
 <img src='https://user-images.githubusercontent.com/82421661/157133084-5d27007a-9b21-4bb1-9164-6366f142dc03.png'>
 
-<p> Creating/updating a new product.</p>
-<img src='https://user-images.githubusercontent.com/82421661/157135015-9646a933-cf33-4f11-8bbc-f1cc77cadbcd.png'>
-<p> The product table.</p>
-<img src='https://user-images.githubusercontent.com/82421661/157135138-28a6f1c6-e823-4b3f-82ca-70c08f654ce4.png'>
-
 <h2>Pomodoro APP</h2>
 <p> This is also a React-app that was developed for practising. This time, trying to make a pomodoro timer. </p>
 <p> An alarm sound still has to be added when the timer reachs 0 seconds, but it works fine. </p>
