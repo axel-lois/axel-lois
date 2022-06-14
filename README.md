@@ -18,8 +18,8 @@ const Me = {
   pronouns: "he" | "him",
   Code: [Javascript, Typescript, Pascal, C, HTML, CSS],
   technologies: {
-    frontEnd: [React, Redux, Bootstrap],
-    backEnd: [Node, Express, MongoDB, PostgreSQL]
+    frontEnd: [React, Redux, Bootstrap,Angular],
+    backEnd: [Node, Express, MongoDB, PostgreSQL,AWS]
   },
   tools: [Postman,Robo3T,PGAdmin4,Git],
   architecture: ["MVC", "REST", "SPA"],
