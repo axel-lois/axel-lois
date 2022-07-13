@@ -18,11 +18,11 @@ const Me = {
   pronouns: "he" | "him",
   Code: [Javascript, Typescript, Pascal, C, HTML, CSS],
   technologies: {
-    frontEnd: [React, Redux, Bootstrap,Angular],
-    backEnd: [Node, Express, MongoDB, PostgreSQL,AWS],
-    testing: [Cypress,Mocha]
+    frontEnd: [React, Redux, Bootstrap, Angular],
+    backEnd: [Node, Express, MongoDB, PostgreSQL, AWS],
+    testing: [Cypress, Mocha]
   },
-  tools: [Postman,Robo3T,PGAdmin4,Git],
+  tools: [Postman, Robo3T, PGAdmin4, Git],
   architecture: ["MVC", "REST", "SPA"],
   hobbies: [Basketball, Coding, Videogames],
   challenge: "Currently studying at university and wokring as Full-Stack engineer"
