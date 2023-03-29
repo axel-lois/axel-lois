@@ -3,12 +3,10 @@
 </em></p>
 
 [![Linkedin: Axel Lois](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/axel-lois-740ba392/)](https://www.linkedin.com/in/axel-lois-dev/)
-[![WhatsAPP Axel Lois](https://img.shields.io/badge/-WhatsApp-darkgreen?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=59891372662&text&app_absent=0)](https://api.whatsapp.com/send/?phone=59891372662&text&app_absent=0)
 [![Mail: Axel Lois](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:axel9034@hotmail.com)](mailto:axel9034@hotmail.com)
 
 ### About me
-<p>Hi, I am Axel, and I am 21 years old. I am a fullstack, back-end oriented developer.</p>
-<p> If you like, we can get in touch via my social media above.</p>
+<p>Hi, I am Axel, and I am 22 years old. I am a fullstack developer with interests in IT security.</p>
 <hr>
 
 ###  A little more about me...  
@@ -16,14 +14,13 @@
 ```javascript
 const Me = {
   pronouns: "he" | "him",
-  Code: [Javascript, Typescript, Pascal, C, HTML, CSS],
+  Code: [Javascript, Typescript, C++, HTML, CSS],
   technologies: {
-    frontEnd: [React, Redux, Bootstrap, Angular],
-    backEnd: [Node, Express, MongoDB, PostgreSQL, AWS],
-    testing: [Cypress, Mocha]
+    frontEnd: [React, Angular],
+    backEnd: [Node, SQL, AWS],
+    testing: [Cypress, Jest]
   },
-  tools: [Postman, Robo3T, PGAdmin4, Git],
-  architecture: ["MVC", "REST", "SPA"],
+  tools: [Git],
   hobbies: [Basketball, Coding, Videogames],
   challenge: "Currently studying at university and wokring as Full-Stack engineer"
 }
@@ -51,13 +48,6 @@ const Me = {
 <img src='https://user-images.githubusercontent.com/82421661/157132852-7e1cf9fb-30c3-439c-9b7c-16a5b64268d3.png'>
 <p> 404 page (easter egg) </p>
 <img src='https://user-images.githubusercontent.com/82421661/157133084-5d27007a-9b21-4bb1-9164-6366f142dc03.png'>
-
-<h2>Pomodoro APP</h2>
-<p> This is also a React-app that was developed for practising. This time, trying to make a pomodoro timer. </p>
-<p> An alarm sound still has to be added when the timer reachs 0 seconds, but it works fine. </p>
-<p> Code: https://github.com/axel-lois/Pomodoro-App/tree/Code </p>
-<p> Page: https://axel-lois.github.io/Pomodoro-App/ </p>
-<img src='https://user-images.githubusercontent.com/82421661/157135671-3870e393-764b-4e83-aef8-cfe00845dfe9.png'>
 
 <h2>Portfolio</h2>
 <p> This is my portfolio and presentation page. It was made using react and router. I also used normalize.css, sweetalert and nes.css for the styling. </p>
