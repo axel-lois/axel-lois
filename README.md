@@ -27,7 +27,7 @@ const Me = {
 ```
 <hr>
 
-### Projects that i made myself: 
+### Projects:
 
 <h2> Pokemon APP </h2>
 <p> This is a fullstack app that i made, that gives you the oportunity to search, filter, sort, create, update and delete pokemon. </p>
