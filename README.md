@@ -6,7 +6,7 @@
 [![Mail: Axel Lois](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:axel9034@hotmail.com)](mailto:axel9034@hotmail.com)
 
 ### About me
-<p>Hi, I am Axel, and I am 22 years old. I am a fullstack developer with interests in IT security.</p>
+<p>Hi, I am Axel, and I am 24 years old. I am a fullstack developer with interests in IT security.</p>
 <hr>
 
 ###  A little more about me...  
@@ -14,13 +14,15 @@
 ```javascript
 const Me = {
   pronouns: "he" | "him",
-  Code: [Javascript, Typescript, C++, HTML, CSS],
+  Code: [Javascript, Typescript, Golang, Java, C++],
   technologies: {
-    frontEnd: [React, Angular],
+    frontEnd: [React, Angular, Next.js],
     backEnd: [Node, SQL, AWS],
-    testing: [Cypress, Jest]
+    testing: [Cypress, Jest, Ginkgo],
+    infra: [Docker, Kubernetes, FluxCD, GitOps],
+    observability: [New Relic]
   },
-  tools: [Git],
+  tools: [Git, Jira, Trello, ],
   hobbies: [Basketball, Coding, Videogames],
   challenge: "Currently studying at university and wokring as Full-Stack engineer"
 }
@@ -30,10 +32,10 @@ const Me = {
 ### Projects:
 
 <h2> Pokemon APP </h2>
-<p> This is a fullstack app that i made, that gives you the oportunity to search, filter, sort, create, update and delete pokemon. </p>
-<p> Basically a CRUD fullstack app, in which i hade to make frontend, backend and also the db models myself. </p>
+<p> This is a fullstack app, that gives you the oportunity to search, filter, sort, create, update and delete pokemon. </p>
+<p>It's not responsive though. </p>
 <p> Code: https://github.com/axel-lois/Pokemon-App </p>
-<p> Page: https://pokemon-app-rose.vercel.app. I may say that it's not responsive and could be a little messy in some devices, plus vercel automatically changed the sizes.  </p>
+<p> Page: https://pokemon-app-rose.vercel.app.  </p>
 <p>Let's see a little bit of the app: </p>
 
 <p> Landing page </p>
@@ -50,14 +52,14 @@ const Me = {
 <img src='https://user-images.githubusercontent.com/82421661/157133084-5d27007a-9b21-4bb1-9164-6366f142dc03.png'>
 
 <h2>Portfolio</h2>
-<p> This is my portfolio and presentation page. It was made using react and router. I also used normalize.css, sweetalert and nes.css for the styling. </p>
-<p>Besides, i created a little express server which accepts a post request from the contact form, sending them to my personal email account using SendGrid.</p>
+<p> This is my portfolio and presentation page. It was made using react. I also used normalize.css, sweetalert and nes.css for the styling. </p>
+<p> Besides, i created a little express server which accepts a post request from the contact form, sending them to my personal email account using SendGrid.</p>
 <p> Code: https://github.com/axel-lois/Portfolio</p>
 <p> Page: https://portfolio-sand-five-59.vercel.app</p>
 <img src='https://user-images.githubusercontent.com/82421661/157769612-6664790e-d893-42a8-9839-21d10a49bc8c.png'>
 
 <h2> Contablito V3 </h2>
-<p> This is the remake of Contablito V2 (another project that i did with Vanila Javascript), but this time, converted into a FullStack app. Made with React, Redux, Typescript, Node, Express, Mongo(atlas), mongoose and JWT.  </p>
+<p> This is the remake of Contablito V2 (another project that I did with Vanila Javascript), but this time, converted into a FullStack app. Made with React, Redux, Typescript, Node, Express, Mongo(atlas), mongoose and JWT.  </p>
 <p> This time, i used bootstrap for the styling. This one is responsive. </p>
 <p> Code: https://github.com/axel-lois/Contablito-V3 </p>
 <p> Page: https://contablito-v3.vercel.app</p>
