@@ -1,5 +1,6 @@
-<h2> Hi, I'm Axel Lois! :wave: (outdated) </h2>
-<p><em>Fullstack developer <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Computer science student at  <a href="https://www.fing.edu.uy">UDELAR</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h2> Hi, I'm Axel Lois! :wave:) </h2>
+<p><em>Fullstack engineer 
+</br> Computer science student at  <a href="https://www.fing.edu.uy">UDELAR</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: Axel Lois](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/axel-lois-740ba392/)](https://www.linkedin.com/in/axel-lois-dev/)
@@ -33,9 +34,8 @@ const Me = {
 
 <h2> Pokemon APP </h2>
 <p> This is a fullstack app, that gives you the oportunity to search, filter, sort, create, update and delete pokemon. </p>
-<p>It's not responsive though. </p>
-<p> Code: https://github.com/axel-lois/Pokemon-App </p>
-<p> Page: https://pokemon-app-rose.vercel.app.  </p>
+<p><a href="https://github.com/axel-lois/Pokemon-App" target="_blank" rel="noopener noreferrer">Code</a></p>
+<p><a href="https://pokemon-app-rose.vercel.app" target="_blank" rel="noopener noreferrer">Page</a></p>
 <p>Let's see a little bit of the app: </p>
 
 <p> Landing page </p>
@@ -54,14 +54,14 @@ const Me = {
 <h2>Portfolio</h2>
 <p> This is my portfolio and presentation page. It was made using react. I also used normalize.css, sweetalert and nes.css for the styling. </p>
 <p> Besides, i created a little express server which accepts a post request from the contact form, sending them to my personal email account using SendGrid.</p>
-<p> Code: https://github.com/axel-lois/Portfolio</p>
-<p> Page: https://portfolio-sand-five-59.vercel.app</p>
+<p><a href="https://github.com/axel-lois/Portfolio" target="_blank" rel="noopener noreferrer">Code</a></p>
+<p><a href="https://axel-lois-dev.com" target="_blank" rel="noopener noreferrer">Page</a></p>
 <img src='https://user-images.githubusercontent.com/82421661/157769612-6664790e-d893-42a8-9839-21d10a49bc8c.png'>
 
 <h2> Contablito V3 </h2>
 <p> This is the remake of Contablito V2 (another project that I did with Vanila Javascript), but this time, converted into a FullStack app. Made with React, Redux, Typescript, Node, Express, Mongo(atlas), mongoose and JWT.  </p>
-<p> This time, i used bootstrap for the styling. This one is responsive. </p>
-<p> Code: https://github.com/axel-lois/Contablito-V3 </p>
-<p> Page: https://contablito-v3.vercel.app</p>
+<p> This time, i used bootstrap for the styling. </p>
+<p><a href="https://github.com/axel-lois/Contablito-V3" target="_blank" rel="noopener noreferrer">Code</a></p>
+<p><a href="https://contablito-v3.vercel.app" target="_blank" rel="noopener noreferrer">Page</a></p>
 <img src='https://user-images.githubusercontent.com/82421661/159184688-eba6eade-48c6-429f-b538-09b4890e4abc.png'>
 
