@@ -1,4 +1,4 @@
-<h2> Hi, I'm Axel Lois! :wave:) </h2>
+<h2> Hi, I'm Axel Lois! :wave: </h2>
 <p><em>Fullstack engineer 
 </br> Computer science student at  <a href="https://www.fing.edu.uy">UDELAR</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
