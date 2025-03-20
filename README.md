@@ -7,7 +7,7 @@
 [![Mail: Axel Lois](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:axel9034@hotmail.com)](mailto:axel9034@hotmail.com)
 
 ### About me
-<p>Hi, I am Axel, and I am 24 years old. I am a fullstack developer with interests in IT security.</p>
+<p>Hi, I am Axel, and I am 24 years old. I am a fullstack engineer with interests in IT security.</p>
 <hr>
 
 ###  A little more about me...  
@@ -25,7 +25,7 @@ const Me = {
   },
   tools: [Git, Jira, Trello, ],
   hobbies: [Basketball, Coding, Videogames],
-  challenge: "Currently studying at university and wokring as Full-Stack engineer"
+  challenge: "Currently working as Full-Stack engineer for Cencosud-Cencommerce"
 }
 ```
 <hr>
