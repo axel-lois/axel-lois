@@ -26,7 +26,6 @@ const Me = {
   },
   tools: [Git, Jira, Trello, Postman, Lens ],
   hobbies: [Basketball, Coding, Videogames],
-  challenge: "Currently working as full-Stack engineer for Cencosud-Cencommerce"
 }
 ```
 <hr>
