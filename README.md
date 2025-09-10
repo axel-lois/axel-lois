@@ -1,14 +1,12 @@
-# Hey there! 👋 I'm Axel
+# Hey there! 👋
 
-```javascript
-const axel = {
-  role: "Software Engineer & Systems Analyst",
-  mindset: "Geek who stays ahead of tech innovations",
-  seeking: ["Amazing career opportunities", "Co-founders for next big idea"],
-  passions: ["Skyrim adventures 🐉", "Parfums 🌿", "Gym sessions 💪", "NBA games 🏀"],
-  location: "Building the future, one line of code at a time"
-};
-```
+Hi! I'm Axel, a Software Engineer with a serious love for exploring & building new tech. I'm always tinkering with the latest tools and frameworks, or at least trying.
+
+Currently working at [Everpass Media](https://everpass.com).
+
+Looking for great opportunities and potential co-founders who share the vision of building something impactful together.
+
+When I'm not coding, I'm probably on my 5th Skyrim playthrough 🐉, discovering new fragrances 🌿, at the gym 💪, or watching NBA games 🏀.
 
 <div align="left">
   
@@ -58,6 +56,8 @@ const axel = {
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 </div>
+
+---
 
 <div align="left">
   
