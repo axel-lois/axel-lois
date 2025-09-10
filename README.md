@@ -1,15 +1,5 @@
 # Hey there! 👋 I'm Axel
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8B5CF6&background=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineer+%7C+Systems+Analyst;Building+the+future%2C+one+commit+at+a+time;Always+learning%2C+always+innovating)
-
-</div>
-
----
-
-## 🚀 About Me
-
 ```javascript
 const axel = {
   role: "Software Engineer & Systems Analyst",
@@ -20,7 +10,7 @@ const axel = {
 };
 ```
 
-<div align="center">
+<div align="left">
   
   ### 🌐 Let's Connect
   
@@ -30,11 +20,9 @@ const axel = {
 
 </div>
 
----
-
 ## 🛠️ Tech Arsenal
 
-<div align="center">
+<div align="left">
 
 ### Frontend & UI
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -71,54 +59,8 @@ const axel = {
 
 </div>
 
----
+<div align="left">
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axel-lois&show_icons=true&theme=dark&bg_color=000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff&border_color=8B5CF6)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axel-lois&layout=compact&theme=dark&bg_color=000000&title_color=8B5CF6&text_color=ffffff&border_color=8B5CF6)
-
-</div>
-
----
-
-## 🎯 3D Contribution Graph
-
-<div align="center">
-  
   ![3D Contributions](https://github.com/axel-lois/axel-lois/blob/output/github-contribution-grid-snake-dark.svg)
-  
-  *Building consistency, one commit at a time*
-
-</div>
-
----
-
-## 💼 What I'm Looking For
-
-```yaml
-opportunities:
-  - role: "Senior Software Engineer positions"
-  - type: "Full-stack or Backend-focused roles"
-  - environment: "Innovative tech companies"
-  
-partnerships:
-  - seeking: "Technical co-founders"
-  - goal: "Build the next unicorn startup"
-  - focus: "Cutting-edge tech solutions"
-```
-
----
-
-<div align="center">
-  
-  ### 💡 *"Innovation distinguishes between a leader and a follower"*
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=axel-lois&color=8B5CF6&style=for-the-badge)
-  
-  ⭐ From [axel-lois](https://github.com/axel-lois)
 
 </div>
