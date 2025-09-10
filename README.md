@@ -5,7 +5,7 @@ Currently working at [Everpass Media](https://everpass.com).
 
 Looking for great opportunities and potential co-founders who share the vision of building something impactful together.
 
-When I'm not coding, I'm probably on my 5th Skyrim playthrough 🐉, discovering new fragrances 🌿, at the gym 💪, or watching NBA games 🏀.
+When I'm not coding, I'm probably on my 5th Skyrim playthrough 🐉, discovering new fragrances 🌿, at the gym 💪, or watching Cavs games 🏀.
 
 <div align="left">
   
