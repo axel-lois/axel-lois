@@ -60,5 +60,5 @@ const axel = {
 </div>
 
 <div align="left">
-![3D Contributions](https://raw.githubusercontent.com/axel-lois/axel-lois/output/profile-3d-contrib/profile-gitblock.svg)
+![3D Contributions](https://github.com/axel-lois/axel-lois/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
