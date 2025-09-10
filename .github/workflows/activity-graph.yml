@@ -1,10 +1,8 @@
-name: GitHub-Profile-3D-Contrib
-
+name: Generate activity graph
 on:
   schedule:  # Runs every 12 hours 
-    - cron: "0 */12 * * *" 
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -32,6 +30,8 @@ jobs:
                 "radar_color": "#8B5CF6",
                 "calendar_color": "#8B5CF6",
                 "calendar_ring_color": "#A855F7",
-                "locale": "en"
+                "locale": "en",
+                "output_path": "./profile-3d-contrib/",
+                "commit_branch": "output"
               }
             }
