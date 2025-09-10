@@ -61,6 +61,6 @@ When I'm not coding, I'm probably on my 5th Skyrim playthrough 🐉, discovering
 
 <div align="left">
   
-![snake gif](https://github.com/axel-lois/axel-lois/blob/output/github-contribution-grid-snake.svg)
+![pacman gif](https://github.com/axel-lois/axel-lois/blob/output/pacman-contribution-graph-dark.svg)
 
 </div>
