@@ -60,5 +60,5 @@ const axel = {
 </div>
 
 <div align="left">
-![3D Contributions](https://github.com/axel-lois/axel-lois/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/axel-lois/axel-lois/blob/output/github-contribution-grid-snake.svg)
 </div>
