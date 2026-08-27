@@ -1,7 +1,7 @@
 # Hey there! 👋
 Hi! I'm Axel, a Software Engineer with a serious love for exploring & building new tech. I'm always tinkering with the latest tools and frameworks, or at least trying.
 
-Currently working at [DAZN](https://www.dazn.com).
+Currently working at [Everpass](https://everpass.com).
 
 Looking for great opportunities and potential co-founders who share the vision of building something impactful together.
 
